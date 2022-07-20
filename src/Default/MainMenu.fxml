@@ -146,7 +146,7 @@
                               </ImageView>
                            </graphic>
                         </Button>
-                        <Button fx:id="btl6" mnemonicParsing="false" prefHeight="55.0" prefWidth="225.0" styleClass="BarItem" text="Panier">
+                        <Button fx:id="btl6" mnemonicParsing="false" onMouseClicked="#Panier" prefHeight="55.0" prefWidth="225.0" styleClass="BarItem" text="Panier">
                            <graphic>
                               <ImageView fitHeight="22.0" fitWidth="22.0" pickOnBounds="true" preserveRatio="true">
                                  <image>

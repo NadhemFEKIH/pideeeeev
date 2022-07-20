@@ -30,8 +30,6 @@ public class ProduitController implements Initializable {
     private SupprimerProduit supProd;
     @FXML
     private Label labelqte;
-    @FXML
-    private Button btnSupp1;
 
     /**
      * Initializes the controller class.
